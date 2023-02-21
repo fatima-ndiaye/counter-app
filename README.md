@@ -36,7 +36,7 @@ The buttons are represented by icons, a plus icon for adding to the count, a flo
 ## Installation
 - Download the application from the repository.
 - Open the index.html file in a browser.
-- Start counting!
+- Start counting.
     
 ## Usage
 - Click on the "+" button to add to the count.
